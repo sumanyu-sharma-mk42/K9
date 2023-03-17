@@ -51,7 +51,7 @@ One of the main benefits of using AI face detection mechanisms for searching mis
 
 ## Screenshots and Logo
 
-Logo(https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/main/TEST%20%20IMAGES/k9_final-removebg-preview.png)
+![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/main/TEST%20%20IMAGES/k9_final-removebg-preview.png)
 
 
 
