@@ -46,7 +46,7 @@ font = cv2.FONT_HERSHEY_COMPLEX_SMALL
 
 
 # connecting database
-con = m.connect(user = 'root',host = 'localhost',passwd = '1234',database = 'police_database')
+con = m.connect(user = 'root',host = 'localhost',passwd = '1234',database = 'police_database') # create a database locally and enter your mysql password
 cursor = con.cursor()
 with open("police_data1.csv", 'r') as f:
     readers = csv.reader(f)
