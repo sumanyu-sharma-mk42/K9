@@ -107,28 +107,27 @@ One of the main benefits of using AI face detection mechanisms for searching mis
 
 ## How to run the code locally
 
-Running project locally
+- Running project locally
+- establish a database by using 'police_data1.csv' file in MySQL.
+- name the database ‘police_database' and create table with the required fields and name it 'missing_person'. 
+- dowload all the essential libraries provided below :
 
-establish a database by using 'police_data1.csv' file in MySQL.
-name the database ‘police_database' and create table with the required fields and name it 'missing_person'. 
-dowload all the essential libraries provided below :
+- Pip install smtplib
+- pip install customtkinter
+- Pip install tkinter
+- Pip install beautifulsoup4
+- pip install dlib
+- Pip install face_recognition
+- Pip install csv
+- Pip install requests
+- Pip install mimestypes
+- Pip install pillow
+- Pip install pyautogui
+- Pip install pycopy-webbrowser
+- Pip install mysql-connector-python
+- Pip install opencv-python
 
-Pip install smtplib
-pip install customtkinter
-Pip install tkinter
-Pip install beautifulsoup4
-pip install dlib
-Pip install face_recognition
-Pip install csv
-Pip install requests
-Pip install mimestypes
-Pip install pillow
-Pip install pyautogui
-Pip install pycopy-webbrowser
-Pip install mysql-connector-python
-Pip install opencv-python
-
-save all the 'TEST IMAGES' and the ‘main.py' file in a single folder.
-dowload all files from the ‘REQUIREMENTS' folder into the same folder as that of ‘main.py' folder.
+- save all the 'TEST IMAGES' and the ‘main.py' file in a single folder.
+- dowload all files from the ‘REQUIREMENTS' folder into the same folder as that of ‘main.py' folder.
 
 
