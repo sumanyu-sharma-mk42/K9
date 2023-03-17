@@ -54,11 +54,11 @@ One of the main benefits of using AI face detection mechanisms for searching mis
 ![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/main/TEST%20%20IMAGES/k9_final-removebg-preview.png)
 ![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/main/WhatsApp%20Image%202023-03-17%20at%2011.58.31%20AM.jpeg)
 ![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/main/WhatsApp%20Image%202023-03-17%20at%2011.58.31%20AM%20(1).jpeg)
-![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/main/WhatsApp%20Image%202023-03-17%20at%2011.58.31%20AM%20(1).jpeg)
-![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/main/WhatsApp%20Image%202023-03-17%20at%2011.58.31%20AM%20(1).jpeg)
-![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/main/WhatsApp%20Image%202023-03-17%20at%2011.58.31%20AM%20(1).jpeg)
-![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/main/WhatsApp%20Image%202023-03-17%20at%2011.58.31%20AM%20(1).jpeg)
-
+![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/main/WhatsApp%20Image%202023-03-17%20at%2011.58.32%20AM.jpeg)
+![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/main/WhatsApp%20Image%202023-03-17%20at%2011.58.32%20AM%20(1).jpeg)
+![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/main/WhatsApp%20Image%202023-03-17%20at%2011.58.32%20AM%20(2).jpeg)
+![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/main/WhatsApp%20Image%202023-03-17%20at%2011.58.33%20AM.jpeg)
+![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/main/WhatsApp%20Image%202023-03-17%20at%2011.58.34%20AM.jpeg)
 
 
 
