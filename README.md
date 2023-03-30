@@ -52,13 +52,15 @@ One of the main benefits of using AI face detection mechanisms for searching mis
 ## Screenshots and Logo
 
 ![k9_final-removebg-preview](https://user-images.githubusercontent.com/122262294/228803689-a525b134-2a6c-4b27-ad9b-7e803464b0b5.png)
-![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/blob/main/WhatsApp%20Image%202023-03-17%20at%2011.58.31%20AM.jpeg)
-![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/blob/main/WhatsApp%20Image%202023-03-17%20at%2011.58.31%20AM%20(1).jpeg)
-![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/blob/main/WhatsApp%20Image%202023-03-17%20at%2011.58.32%20AM.jpeg)
-![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/blob/main/WhatsApp%20Image%202023-03-17%20at%2011.58.32%20AM%20(1).jpeg)
-![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/blob/main/WhatsApp%20Image%202023-03-17%20at%2011.58.32%20AM%20(2).jpeg)
-![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/blob/main/WhatsApp%20Image%202023-03-17%20at%2011.58.33%20AM.jpeg)
-![Logo](https://raw.githubusercontent.com/sumanyu-sharma-mk42/K9/blob/main/WhatsApp%20Image%202023-03-17%20at%2011.58.34%20AM.jpeg)
+![WhatsApp Image 2023-03-17 at 11 58 31 AM](https://user-images.githubusercontent.com/122262294/228805126-bdad47e1-bb85-4fce-9d34-8a8df4e5f498.jpeg)
+![WhatsApp Image 2023-03-17 at 11 58 31 AM (1)](https://user-images.githubusercontent.com/122262294/228805203-120af962-4cef-4bff-ac32-2696e888e7cc.jpeg)
+![WhatsApp Image 2023-03-17 at 11 58 32 AM](https://user-images.githubusercontent.com/122262294/228805318-292813dc-165c-41f3-a39d-17d6116110fd.jpeg)
+![WhatsApp Image 2023-03-17 at 11 58 32 AM (1)](https://user-images.githubusercontent.com/122262294/228805558-fe9ba56d-f193-4528-9528-ba9d46be5149.jpeg)
+
+![WhatsApp Image 2023-03-17 at 11 58 32 AM (2)](https://user-images.githubusercontent.com/122262294/228805396-06e17e60-4e67-4949-ad1d-2e7aba748dde.jpeg)
+
+![WhatsApp Image 2023-03-17 at 11 58 33 AM](https://user-images.githubusercontent.com/122262294/228805625-53dbb832-2722-482f-a2fb-a52a2ba073d6.jpeg)
+![WhatsApp Image 2023-03-17 at 11 58 34 AM](https://user-images.githubusercontent.com/122262294/228805653-a5d852c3-4647-42d3-808e-23268d49179e.jpeg)
 
 
 
