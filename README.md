@@ -43,10 +43,12 @@ One of the main benefits of using AI face detection mechanisms for searching mis
 
 - PIL (Python Imaging Library) : It provides tools for working with images in tkinter GUI applications.
 
-- Mysql.connector : It allows you to connect and interact with MySQL databases.
-
-- csv : It is a library that provides functionality for working with comma-separated value (CSV) files.
-
+- Mysql : Used for creating and managing the databases.
+  
+- Haar cascade classifier: an Object Detection Algorithm used to identify faces in an image or a real time video
+  
+- OPENCV: opencv is a Computer Vision library, overlaps with fields like Image Processing, Photogrammetry, and Pattern Recognition.
+  
 - BeautifulSoup : It is a popular Python library used for web scraping and parsing HTML and XML documents. 
 
 ## Screenshots and Logo
