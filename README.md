@@ -30,6 +30,30 @@ One of the main benefits of using AI face detection mechanisms for searching mis
 
 - Our app uses complex algorithms to analyze facial features, such as the distance between eyes, nose shape, and jawline to identify and recognize individuals. It works with a high accuracy, even in challenging lighting conditions, and can match images quickly, making it an efficient tool for many applications.
 
+## How to run the code locally
+
+- Running project locally
+- establish a database by using 'police_data1.csv' file in MySQL.
+- name the database ‘police_database' and create table with the required fields and name it 'missing_person'. 
+- dowload all the essential libraries provided below :
+
+- Pip install smtplib
+- pip install customtkinter
+- Pip install tkinter
+- Pip install beautifulsoup4
+- pip install dlib
+- Pip install face_recognition
+- Pip install csv
+- Pip install requests
+- Pip install mimestypes
+- Pip install pillow
+- Pip install pyautogui
+- Pip install pycopy-webbrowser
+- Pip install mysql-connector-python
+- Pip install opencv-python
+
+- save all the 'TEST IMAGES' and the ‘main.py' file in a single folder.
+- dowload all files from the ‘REQUIREMENTS' folder into the same folder as that of ‘main.py' folder.
 
 ## Tech Stack used
 
@@ -109,29 +133,5 @@ One of the main benefits of using AI face detection mechanisms for searching mis
 - Privacy concerns: The use of facial recognition technology raises concerns about privacy, surveillance, and the potential for misuse. We designed the software to protect the privacy and security of individuals and have maximum transparency possible.
 
 
-## How to run the code locally
-
-- Running project locally
-- establish a database by using 'police_data1.csv' file in MySQL.
-- name the database ‘police_database' and create table with the required fields and name it 'missing_person'. 
-- dowload all the essential libraries provided below :
-
-- Pip install smtplib
-- pip install customtkinter
-- Pip install tkinter
-- Pip install beautifulsoup4
-- pip install dlib
-- Pip install face_recognition
-- Pip install csv
-- Pip install requests
-- Pip install mimestypes
-- Pip install pillow
-- Pip install pyautogui
-- Pip install pycopy-webbrowser
-- Pip install mysql-connector-python
-- Pip install opencv-python
-
-- save all the 'TEST IMAGES' and the ‘main.py' file in a single folder.
-- dowload all files from the ‘REQUIREMENTS' folder into the same folder as that of ‘main.py' folder.
 
 
